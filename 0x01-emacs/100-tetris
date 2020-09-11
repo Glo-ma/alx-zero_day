@@ -1,2 +1,1 @@
-#!/bin/bash
-emacs esc+x tetris
+emacs <ESC+x> tetris
